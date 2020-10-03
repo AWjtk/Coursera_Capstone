@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is applied daya science capstone project
+This is applied data science capstone project
